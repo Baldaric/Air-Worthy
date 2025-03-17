@@ -18,7 +18,7 @@ The dataset used in this project consists of a balanced mix of numerical and cat
 - Weather Conditions
 
 The dataset can be accessed from the following source:
-- [CAROL Query]([https://www.kaggle.com/datasets](https://data.ntsb.gov/carol-main-public/basic-search))
+- [CAROL Query](https://www.kaggle.com/datasets](https://data.ntsb.gov/carol-main-public/basic-search)
 
 ---
 
@@ -91,7 +91,7 @@ This application is designed primarily for:
 
 ## 📥 Dataset Source
 
-The dataset was sourced from [US Government]([https://www.kaggle.com/datasets](https://data.ntsb.gov/carol-main-public/basic-search)), specifically selected for its comprehensive details regarding airplane incidents and accidents.
+The dataset was sourced from [US Government](https://www.kaggle.com/datasets](https://data.ntsb.gov/carol-main-public/basic-search), specifically selected for its comprehensive details regarding airplane incidents and accidents.
 
 ---
 
